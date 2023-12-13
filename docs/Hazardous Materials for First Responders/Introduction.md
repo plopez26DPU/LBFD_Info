@@ -1,4 +1,4 @@
-The fifth edition of Hazardous Materials for First Responders is designed to meet the `1072 NFPA requirement`.
+The fifth edition of Hazardous Materials for First Responders is designed to meet the `1072 NFPA` requirement.
 
 # Book Organization
 
