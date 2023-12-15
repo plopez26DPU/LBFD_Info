@@ -20,13 +20,16 @@
 * `Weapons of Mass Destruction (WMD)` - any weapon or device that is intended or has the capability to cause death or serious bodily injury to a significant amount of people.
 * `CBRNE` - chemical, biological, radiological, nuclear or explosive
 * `Mitigate` - to cause to become less harsh or hostile; to make less severe, intense or painful; to alleviate. The third of three steps (locate, isolate, mitigate) in one method of sizing up an emergency situation.
-* `SOP` - standard operating procedure
+* `SOP` - standard operating procedure; standard methods or rules in which an organization or fire department operates to carry out a routine function.
 * `SOG` - standard operating guideline
 * `National Fire Protection Association (NFPA)` - U.S. nonprofit educational and technical association devoted to protecting life and property from fire by developing fire protection standards and educating the public. 
 * `Authority Having Jurisdiction (AHJ)` - an organization, office, or individual responsible for enforcing the requirements of a code or standard, or approving equipment, materials, an installation, or a procedure.
 * `Awareness level` - lowest level of training established by the NFPA for personnel at hazmat incidents.
 * `Operations level` - level of training established by the NFPA allowing first responders to take defensive actions at hazmat incidents.
 * `Operations Mission-Specific Level` - level of training established by the NFPA allowing first responders to take additional defensive tasks and limited offensive actions at hazmat incidents.
+* `APIE Process` - simple, 4-step response model that guides responders' actions at hazmat incidents. Can be used at any incident.
+* `Incident commander (IC)` - person in charge of the incident command system and responsible for the management of all incident operations during an emergency.
+* `Situation awareness` - perception of the surrounding environment and the ability to anticipate future events.
 
 ## Notes
 
@@ -53,3 +56,15 @@ NFPA `1072` and `472` identify three training levels in this manual
 `Operations level` responders are dispatched to the scene in order to `mitigate` the incident. These responders may include firefighters, law enforcement, industrial response personnel, or others. At this level of training personnel are allowed to perform defensive actions, but, with some exceptions they are **NOT** expected to come into direct contact with the hazardous material. 
 
 `Operations Mission-Specific level` responders are typically trained beyond the set of core competencies to perform additional defensive tasks and limited offensive actions. This would include using specialized equipment and performing tasks where they might come into contact with the hazardous material(s).
+
+`APIE` steps:
+1. `A`nalyze the incident - attempt to understand the current situation. 
+   * What hazardous material was involved?
+   * What kind of containers were used?
+   * What quantity of the material are we working with?
+   * What are the number of exposures?
+   * What are the potential hazards? 
+2. `P`lan the initial response - use information gathered during analysis phase and determine what actions to take to `mitigate` the incident. The `IC` will issue assignments to responders at this stage.
+3. `I`mplement the response - perform the tasks determined during the planning stage. Responder direct actions are `mitigating` the incident.
+4. `E`valuate progress - this continues until the termination of the incident response, monitor the progress to see whether the response plan is working. Responders should report the response plan is working, and if they notice any changes in the conditions.
+
