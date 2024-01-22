@@ -1,6 +1,5 @@
-# Learning Objective 1
-* Define a hazardous materials incident. 
-    * `an emergency involving substances that pose unreasonable risk to people, the environment and property.`
+# Learning Objective 1 - Define a hazardous materials incident. 
+* `an emergency involving substances that pose unreasonable risk to people, the environment and property.`
 
 * hazardous materials are substances that possess harmful characteristics. 
   * US: hazardous materials
@@ -22,8 +21,7 @@
 Q: `How are hazardous materials incidents different from other types of emergency incidents? `
 A: `They pose different risks that we normally do not need to think about. The incident will need to be handled differently because of the said additional risks.`
 
-# Learning Objective 2
-* Describe roles and responsibilities of first responders in hazardous materials incidents.
+# Learning Objective 2 - Describe roles and responsibilities of first responders in hazardous materials incidents.
 
 * First responder roles are established by law and NFPA standards. 
   * NFPA 1072 <- meets or exceed OSHA requirements for awareness operation, and technician
@@ -103,8 +101,7 @@ A:
 2. `Operations` - `identify potential hazards, implement the planned response, evaluate progress of incident, establish incident management system`
 3. `Operations - Mission-Specific` - `preserve evidence, monitoring and sampling, rescue victims`
 
-# Learning Objective 3
-* Recognize the ways that hazardous materials harm people. 
+# Learning Objective 3 - Recognize the ways that hazardous materials harm people.
 
 * may affect health if contact has been made or get into your body
 * may cause harm by their behavior and/ or physical properties
@@ -151,8 +148,7 @@ A: `inhalation, absorption, ingestion and injection`
 Q: `What are the three main mechanisms by which hazardous materials can cause bodily harm?`
 A: `energy release, corrosive and toxicity`
 
-# Learning Objective 4
-* List hazardous materials regulations, definitions, and statistics.
+# Learning Objective 4 - List hazardous materials regulations, definitions, and statistics.
 
 * ammonium nitrate ship exploded at a dock and 3,000 people were injured and 500 people were killed
 
